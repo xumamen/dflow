@@ -1,5 +1,3 @@
 shash by xumamen@gmail.com
 
-performance test
-test1
-
+This little code is to test the performance of openflow switch
